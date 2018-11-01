@@ -5,3 +5,4 @@ https://docs.google.com/document/d/1O6GRHy3OIzZq2fv8jUnHrC2R7wqGKC9rJpKhJ53Xhz8/
 https://github.com/jantimon/html-webpack-plugin
 https://github.com/danethurber/webpack-manifest-plugin
 https://webpack.js.org/configuration/dev-server/
+https://webpack.js.org/api/hot-module-replacement/
