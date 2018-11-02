@@ -6,3 +6,4 @@ https://github.com/jantimon/html-webpack-plugin
 https://github.com/danethurber/webpack-manifest-plugin
 https://webpack.js.org/configuration/dev-server/
 https://webpack.js.org/api/hot-module-replacement/
+https://webpack.js.org/plugins/mini-css-extract-plugin/#minimizing-for-production
